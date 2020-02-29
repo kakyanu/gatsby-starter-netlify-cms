@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="Sekedar Tutorial"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -74,7 +74,7 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://facebook.com/mz.yanuar">
                   <img
                     src={facebook}
                     alt="Facebook"
@@ -89,7 +89,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://instagram.com/yanuareaa_">
                   <img
                     src={instagram}
                     alt="Instagram"
